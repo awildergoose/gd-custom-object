@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          repository: SpazElectro/gd-custom-object
+          repository: awildergoose/gd-custom-object
           path: .
 
       - name: Build the mod
